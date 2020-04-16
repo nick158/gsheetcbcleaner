@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to GSheet Cleaner for Clearbanc
+This was an addon developed to provide a set of tools to quickly standardize and clean google sheets for upload into salesforce. Intended for internal use, but feel free to modify to suit your own needs. 
 
-You can use the [editor on GitHub](https://github.com/nick158/gsheetcbcleaner/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+It needs permissions to modify the google sheets, and shows up as a menu in the toolbar that allows you to select your version of editing tools. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Privacy Policy
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nick158/gsheetcbcleaner/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can find Clearbanc's Privacy Policy here: https://clearbanc.com/terms/
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with this addon? Shoot an email to nicholas.c@clearbanc.com. 
